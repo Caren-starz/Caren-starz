@@ -2,7 +2,8 @@
 - 🌱  My next goal is to become a data scientist
 - 👀 I’m interested in people and whay they do what they do 👀
 - 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me at http://www.linkedin.com/in/caren-coates
+- 📫 You can reach me at:
+-                         http://www.linkedin.com/in/caren-coates
 -                         https://github.com/Caren-starz
 - 😄 Pronouns:I am a Proper Noun😄
 - ⚡ Fun fact:I love cooking, reading, working out and solving puzzles
