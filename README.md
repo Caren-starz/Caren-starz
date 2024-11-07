@@ -1,14 +1,25 @@
-- 👋 Hi, I’m Caren a passionate and detail-oriented data analyst. With a strong foundation in date analysis and visualization I have developed a keen ability to transform data into actionable insights
-- 🌱  My next goal is to become a data scientist
-- 👀 I’m interested in people and whay they do what they do 👀
-- 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me at:
--                         http://www.linkedin.com/in/caren-coates
--                         https://github.com/Caren-starz
-- 😄 Pronouns:I am a Proper Noun😄
-- ⚡ Fun fact:I love cooking, reading, working out and solving puzzles
+<h1 align="center">Hi 👋, I'm Caren</h1>
+<h3 align="center">a passionate and detail-oriented data analyst. With a strong foundation in date analysis and visualization</h3>
 
-<!---
-Caren-starz/Caren-starz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caren-starz&label=Profile%20views&color=0e75b6&style=flat" alt="caren-starz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caren-starz" alt="caren-starz" /></a> </p>
+
+- 🔭 I’m currently working on [Zomato Restaurant Analysis](https://public.tableau.com/views/CC_ZomatoRestaurantAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- 📫 How to reach me **neracshop@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1YFiqy8fBACh3kmN-1Dz_-moZbm0IvIm11kqo4dpZAxk/edit?usp=sharing](https://docs.google.com/document/d/1YFiqy8fBACh3kmN-1Dz_-moZbm0IvIm11kqo4dpZAxk/edit?usp=sharing)
+
+- ⚡ Fun fact **love to cook**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caren-starz&show_icons=true&locale=en&layout=compact" alt="caren-starz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caren-starz&show_icons=true&locale=en" alt="caren-starz" /></p>
