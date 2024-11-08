@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caren</h1>
-<h3 align="center">I am a passionate and detail-oriented data analyst, With a strong foundation in date analysis and visualization</h3>
+<h3 align="center">I am a passionate and detail-oriented data analyst, with a strong foundation in date analysis and visualization</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caren-starz&label=Profile%20views&color=0e75b6&style=flat" alt="caren-starz" /> </p>
 
