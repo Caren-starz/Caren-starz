@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **BI Projects**
 
-- 📫 How to reach me **neracshop@gmail.com**
+- 📫 How to reach me **carenkaycee@yahoo.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1YFiqy8fBACh3kmN-1Dz_-moZbm0IvIm11kqo4dpZAxk/edit?usp=sharing](https://docs.google.com/document/d/1YFiqy8fBACh3kmN-1Dz_-moZbm0IvIm11kqo4dpZAxk/edit?usp=sharing)
 
